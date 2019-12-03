@@ -16,7 +16,7 @@ public class TechTalkController {
 	@GetMapping
 	public String sayHello() {
 		
-		return "Hello Tech Talk";
+		return "Hello Tech Talk version 2";
 	}
 	
 	
